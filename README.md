@@ -23,7 +23,7 @@ A Neural network with input layer, one hidden layer with Radial Basis function a
 <B>Step 3:</B> Define the non- linear function for the hidden neurons using Gaussian RBF<br>
 <B>Step 4:</B> Initialize the weights for the hidden neuron <br>
 <B>Step 5:</B> Determine the output  function as 
-                 Y=W1*φ1 +W1 *φ2 <br>
+                 Y=W1*φ1 +W1 *φ2 <br> 
 <B>Step 6:</B> Test the network for accuracy<br>
 <B>Step 7:</B> Plot the Input space and Hidden space of RBF NN for XOR classification.
 
